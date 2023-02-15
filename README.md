@@ -46,7 +46,6 @@ Improving skills through challenges is fun. Completing this challenge I practice
 ### Useful resources
 
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) - This helped me with layout and positioning using CSS flexbox.
-- [CSS Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - This helped me learn about CSS box-shadow.
 
 ## Author
 
