@@ -49,7 +49,7 @@ body{
     border-radius: 0.8rem;
 }
 .qr-header{
-    font-size: 0.9375rem;
+    font-size: 1.2rem;
     font-weight: 700;
     text-align: center;
     color: var(--Dark-blue);
